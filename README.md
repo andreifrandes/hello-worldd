@@ -7,3 +7,4 @@ and the main file stays the same
 tho after I code and test and code again in this branch ,and the project is over 
 i'll merge it with the master branch ,so my final folder will look goodd
 a
+lol
